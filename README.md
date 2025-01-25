@@ -68,7 +68,7 @@ Feel free to fork the repository, make improvements, and submit pull requests. I
 
 ##License
 
-This project is licensed under MIT License - see the LICENSE file for details.
+This project is licensed under [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
 
 ##Acknowledgements
 
